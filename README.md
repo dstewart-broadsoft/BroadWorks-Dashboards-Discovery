@@ -1,2 +1,2 @@
-# BroadWorks-Discovery-Dashboards
+# BroadWorks-Dashboards-Discovery
 Repository for BroadWorks Dashboards and Discovery
